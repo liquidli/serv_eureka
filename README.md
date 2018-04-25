@@ -1,4 +1,3 @@
-# serv_eureka
 Spring Cloud 2.0 Example
 with
 =============
